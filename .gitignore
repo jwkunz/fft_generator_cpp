@@ -1,0 +1,3 @@
+.vscode
+*.exe
+generated_fft.hpp
